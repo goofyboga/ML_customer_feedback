@@ -1,3 +1,6 @@
+[📄 View Final Report](https://github.com/goofyboga/ML_customer_feedback/raw/main/Final%20Report.pdf)
+
+
 # Technical Summary
 
 This project investigated four classification algorithms for customer feedback categorisation, including KNN, Random Forest, and Neural Networks. Through our evaluation, we found that 
